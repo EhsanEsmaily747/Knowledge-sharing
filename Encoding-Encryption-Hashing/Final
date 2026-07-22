@@ -95,7 +95,7 @@ Computers store files as binary data:
 
 However, many systems are designed to transfer text.
 
-Base64 converts binary data into safe text characters.
+Base64 converts binary bytes into a text representation, not binary data into actual text data.
 
 It is commonly used for:
 
